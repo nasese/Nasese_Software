@@ -1,0 +1,12 @@
+The Neurocognitive Assessment Software for Enrichment Sensory Environments (NASESE) is based on the JAVA 
+and Processing programming languages and detects, displays and analyzes EEG signals for individual or a 
+group of patients. This neuroinformatics software offers a digital painting environment and a real-time 
+transformation of EEG signals into adjustable music volume and octave configuration per electrode, for 
+the real-time observation and evaluation of therapeutic procedures. The EEG acquisition is wireless, 
+therefore, brain data can also be collected from the application of other sensory or sensorimotor 
+therapeutic sessions as well. NASESE includes two main functionalities, organized in five different modules.
+The first functionality includes recording, filtering and visualization of the EEG signals exported to a 
+rotating 3D brain model and a real-time transformation of brain activity to sound sculptures, while 
+the second functionality generates statistical tests and coherence calculation in a fully customizable 
+computerized
+environment.
