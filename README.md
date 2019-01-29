@@ -1,2 +1,2 @@
 # Software
-The Nasese software with all necessary files
+The Nasese(Neurocognitive Assessment Software for Enrichment Sensorimotor Environments) software with all necessary files
